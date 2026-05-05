@@ -40,12 +40,12 @@ export const content = {
     title: "Captured Memories",
     // Place images in /public/images/ and reference here
     images: [
-      { src: "/images/pic1.jpg", label: "first date 🌸", tag: "intrams" },
-      { src: "/images/pic2.jpg", label: "always ♥",      tag: "recent!" },
-      { src: "/images/pic3.jpg", label: "our trip 🌊",   tag: "" },
-      { src: "/images/pic4.jpg", label: "birthday 🎂",   tag: "birthday" },
-      { src: "/images/pic5.jpg", label: "us 💕",         tag: "" },
-      { src: "/images/pic6.jpg", label: "forever 🌷",    tag: "done research" },
+      { src: "/images/pic1.jpg", label: "🌸", tag: "intrams" },
+      { src: "/images/pic2.jpg", label: "♥",      tag: "recent!" },
+      { src: "/images/pic3.jpg", label: "🌊",   tag: "" },
+      { src: "/images/pic4.jpg", label: "🎂",   tag: "birthday" },
+      { src: "/images/pic5.jpg", label: "💕",         tag: "" },
+      { src: "/images/pic6.jpg", label: "🌷",    tag: "done research" },
     ],
     returnButton: "RETURN",
   },
@@ -58,14 +58,14 @@ export const content = {
     flowerEmoji: "🌷",
     // Poem lines that float around the flower
     poems: [
-      "You keep me smiling, like a garden of flowers",
-      "You make the day feel like a bouquet of blooms",
-      "Your smile spreads like spring flowers in the field",
-      "You're as lovely as a garden full of flowers after the rain",
-      "Your presence is as refreshing as morning flowers",
-      "You bring color to life like flowers in spring",
-      "Your kindness blooms like petals in the breeze",
-      "You brighten the world, graceful as dancing flowers",
+      "عارفة غلاوتي عندك، وعارفة انك حطاني في مكانة أكبر من مجرد صاحبة… أنا عندك ذي الأخت، وده أنا واثقة فيه 100%.",
+      "وعارفة قد إيه بتحبيني وبتخافي عليا، وبتعامليني كإني بنتك، وده عمره ما غاب عني لحظة.",
+      "Your حنا بجد بقينا حياة بعض 😂♥️",
+      "وعارفة إنك واثقة فيا أكتر من أي حد، ويمكن أكتر من أي حد تاني في حياتك، وده عندي بالدنيا كلها.",
+      "وعارفة إني أكتر واحدة بتكلميها وبتحكي لها، وحتى لو ساعات بغلس عليكي أو بسألك كتير، فده بس عشان بحب أطمن عليكي، مش أكتر.",
+      "You إحنا مش بس أصحاب… إحنا شركاء رحلة.",
+      "Your إنتي شريكة نجاحي، وشريكة كل حاجة حلوة حصلتلي ♥️",
+      "You وربنا يخليكي ليا دايمًا يا أجمل وأغلى حد في حياتي 🫶🏻♥️",
     ],
     returnButton: "RETURN",
   },
@@ -85,14 +85,27 @@ export const content = {
   letter: {
     title: "Message for my love",
     // Supports \n for line breaks
-    message: `Happy Birthday babe, 
-    I'm incredibly lucky to walk through life with you by my side. Watching you grow, seeing you smile, and sharing even the smallest moments with you is a gift I never take for granted.
-
-You make every day feel special just by being in it, so today I hope the world gives back even a fraction of the love and joy you bring into it. You deserve all the sweetness, all the peace, and all the happiness your heart can hold. I love you more than words can say, and I'm so proud of the person you are.
-
-Happy Birthday, my heart — you are truly one of a kind.`,
+    message: `عارفة غلاوتي عندك، وعارفة انك حطاني في مكانة أكبر من مجرد صاحبة… أنا عندك ذي الأخت، وده أنا واثقة فيه 100%.
+وعارفة قد إيه بتحبيني وبتخافي عليا، وبتعامليني كإني بنتك، وده عمره ما غاب عني لحظة.
+أنا فاكرة كل حاجة بينا… كل موقف، كل كلام، وكل لحظة حلوة.
+وعارفة إنك واثقة فيا أكتر من أي حد، ويمكن أكتر من أي حد تاني في حياتك، وده عندي بالدنيا كلها.
+وعارفة إني أكتر واحدة بتكلميها وبتحكي لها، وحتى لو ساعات بغلس عليكي أو بسألك كتير، فده بس عشان بحب أطمن عليكي، مش أكتر.
+وكفاية عندي إنك مش بتخرجي مع حد تقريبًا غيري، وكفاية اللحظة اللي نمت عندك وصحيتي في نص الليل تطبطبي عليا… دي لوحدها عندي حكاية 🥺♥️
+إحنا مش بس أصحاب… إحنا شركاء رحلة.
+فاكرة أول مرة كنا مبسوطين بالـ 5000 جنيه كأنها كنز؟
+وفاكرة لما الدنيا اتفتحت علينا وبقينا بنقبض 20 ألف؟
+وكل خطوة خدناها سوا… حتى التليفونات اللي جبناها.
+إنتي شريكة نجاحي، وشريكة كل حاجة حلوة حصلتلي ♥️
+يمكن مبتاخديش بالك، بس أنا بخاف عليكي بطريقة غريبة… حتى وإحنا بنعدي الطريق بلاقي نفسي باخد ناحية العربيات من غير ما أفكر.
+أنا بحبك أوي يا تقي…
+وبجد مش قادرة أتخيل حياتي من غيرك.
+مجرد فكرة إننا نبعد عن بعض دي حاجة مش داخلة دماغي أصلاً.
+إحنا بجد بقينا حياة بعض 😂♥️
+وربنا يخليكي ليا دايمًا يا أجمل وأغلى حد في حياتي 🫶🏻♥️.
+حتي لو رحلنا و فرقتنا الطرق ،وعدت الغريب التائه بين طرقات المدينه 
+سأتذكر دائما إنه حين فقد يعقوب فلذه كبده يوسف ،راح البصر حزنا علي الحبيب ،وما أراني إلا فاقدا لنفسي إن فقدتك.♥️`,
     signoff: "Sincerely yours,",
-    signature: "The love of your life",
+    signature: "your bestfriend",
     returnButton: "RETURN",
   },
 

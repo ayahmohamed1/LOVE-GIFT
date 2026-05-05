@@ -34,7 +34,7 @@
 }
 
 .line {
-  font-family: var(--font-hand);
+  font-family: monospace;
   font-size: larger;
   line-height: 1.92;   /* match the ruled lines */
   color: var(--text);

@@ -57,6 +57,7 @@
   object-fit: cover;
   display: block;
   background: #eee;
+  height: 112%;
 }
 
 .placeholder {
